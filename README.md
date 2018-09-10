@@ -72,7 +72,7 @@ npm lint | check all js files
 If something is unclear, wrong, or needs to be refactored, please let me know. Pull requests are always welcome. Please open an issue before submitting a pull request. 
 
 ### License
---- | --- 
+---
 The MIT License (MIT)
 
 Copyright (c) 2018 Panagiotis Karipiadis
