@@ -55,7 +55,7 @@ git clone https://github.com/pankaryp/MEN-Boilerplate.git
 npm install
 
 # Then simply start your app
-node app.js
+node server.js
 ```
 
 ### Available npm scripts
