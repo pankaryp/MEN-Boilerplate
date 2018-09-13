@@ -62,10 +62,10 @@ node server.js
 
 Script | Desc
 --- | --- 
-npm test  | snyk vulnerability check
-npm start | run the server
-npm devserver | run the server with nodemon
-npm lint | check all js files
+npm run test  | snyk vulnerability check
+npm run start | run the server
+npm run devserver | run the server with nodemon
+npm run lint | check all js files
 
 ### Contributing
 ---
