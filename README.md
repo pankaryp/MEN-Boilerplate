@@ -55,7 +55,7 @@ git clone https://github.com/pankaryp/MEN-Boilerplate.git
 npm install
 
 # Then simply start your server
-npm run dev
+npm run devserver
 ```
 
 ### Available npm scripts
