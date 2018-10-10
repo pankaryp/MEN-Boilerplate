@@ -2,7 +2,7 @@
 
 ![status completed](https://img.shields.io/badge/status-completed-blue.svg)
 
-A Boilerplate generator for back end apps, with MongoDB, Express and Node.js
+A Boilerplate generator for RESTfull APIs, with MongoDB, Express and Node.js
 
 ### Dependencies
 
