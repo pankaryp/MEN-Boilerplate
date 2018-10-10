@@ -1,4 +1,7 @@
 # MEN-Boilerplate
+
+![status completed](https://img.shields.io/badge/status-completed-blue.svg)
+
 A Boilerplate generator for back end apps, with MongoDB, Express and Node.js
 
 ### Dependencies
@@ -40,6 +43,7 @@ A Boilerplate generator for back end apps, with MongoDB, Express and Node.js
 
 * [Node.js](https://nodejs.org/en/)
 * [MongoDB](https://www.mongodb.com/) 
+* Global installation of nodemon - 'npm install -g nodemon'
 * Command line tools
 
 ### Getting Started
