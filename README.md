@@ -1,8 +1,8 @@
-# MEN-Boilerplate
+# men-boilerplate
 
-![status completed](https://img.shields.io/badge/status-completed-blue.svg)
+![project boilerplate](https://img.shields.io/badge/project-boilerplate-blue.svg?style=flat-square)
 
-A Boilerplate generator for RESTfull APIs, with MongoDB, Express and Node.js
+> A mongoDB, express, nodejs boilerplate for RESTfull APIs
 
 ### Dependencies
 
@@ -44,16 +44,13 @@ A Boilerplate generator for RESTfull APIs, with MongoDB, Express and Node.js
 * [Node.js](https://nodejs.org/en/)
 * [MongoDB](https://www.mongodb.com/) 
 * Global installation of nodemon - 'npm install -g nodemon'
-* Command line tools
 
 ### Getting Started
 
 ```
-# Go to your project directory
-cd my-project
-
 # Clone the repository
-git clone https://github.com/pankaryp/MEN-Boilerplate.git
+git clone https://github.com/pankaryp/men-boilerplate.git
+cd men-boilerplate
 
 # Install NPM dependencies
 npm install

@@ -1,9 +1,10 @@
 const express = require('express');
 const router = express.Router();
 
-// @route  GET api/home
-// @desc   GET Home page
-// @access Public
+/* @route  GET api/home
+** @desc   GET Home page
+**  @access Public
+*/ 
 router.get('/', (req, res) => {
     
 });

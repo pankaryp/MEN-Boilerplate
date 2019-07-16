@@ -1,11 +1,11 @@
 {
   "name": "men-boilerplate",
   "version": "1.0.0",
-  "description": "A Boilerplate generator for back end apps with MongoDB, Express and Node.js",
+  "description": "A mongoDB, express, nodejs boilerplate for RESTfull APIs",
   "main": "server.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pankaryp/MEN-Boilerplate.git"
+    "url": "https://github.com/pankaryp/men-boilerplate.git"
   },
   "scripts": {
     "test": "snyk test",
