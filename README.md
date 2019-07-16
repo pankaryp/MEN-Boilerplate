@@ -47,7 +47,7 @@
 
 ### Getting Started
 
-```
+```sh
 # Clone the repository
 git clone https://github.com/pankaryp/men-boilerplate.git
 cd men-boilerplate
